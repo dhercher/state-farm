@@ -1,5 +1,7 @@
 
-
+# Raw Image Data is huge
+# so this will ignore that folder
+raw_data/imgs/
 
 # IPython Files
 *.ipynb_checkpoints
